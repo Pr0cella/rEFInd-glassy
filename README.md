@@ -16,7 +16,7 @@
     
  5. You may need to change the default resolution of the rEFInd menu (see refind.conf).
     
- 6. The background can easily be replaced by any .png-file with a resolution 1920x1080.
+ 6. The background can easily be replaced by any .png-file with a resolution of 1920x1080.
  
 Entries should be autodetected and shown with the proper icons.
 

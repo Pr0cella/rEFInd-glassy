@@ -23,4 +23,5 @@ Manual entries can be done via `menuentry` option (see refind.conf for examples)
 
 ### Attributions
 > This theme is based on the [Sunset](https://gitlab.com/realmain/rEFInd-sunset)
+
 > Contains OS Icons from [munlik's](https://github.com/munlik/refind-theme-regular) repository

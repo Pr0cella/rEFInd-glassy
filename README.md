@@ -1,6 +1,8 @@
 # rEFInd-snow
 ## A minimalistic rEFInd theme
 
+![rEFInd Snow](https://i.imgur.com/vvo2Peb.png)
+
 ### Usage
 
  1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`

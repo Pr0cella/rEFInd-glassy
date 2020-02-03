@@ -1,7 +1,7 @@
-# rEFInd-snow
+# Glassy
 ## A minimalistic rEFInd theme
 
-![rEFInd Snow](https://i.imgur.com/vvo2Peb.png)
+![Glassy](preview.png)
 
 ### Usage
 
@@ -13,13 +13,13 @@
 
  3. Clone this repository into the `themes` directory.
 
- 4. To enable the theme add `include themes/rEFInd-snow/theme.conf` at the end of
+ 4. To enable the theme add `include themes/rEFInd-glassy/theme.conf` at the end of
     `refind.conf`.
     
  5. You may need to change the default resolution of the rEFInd menu (see refind.conf).
     
  6. The background can easily be replaced by any .png-file with a resolution of 1920x1080.
- 
+
 Entries should be autodetected and shown with the proper icons.
 
 Manual entries can be done via `menuentry` option (see refind.conf for examples).
